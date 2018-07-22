@@ -1,0 +1,13 @@
+.backdrop {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modal_content {
+  width: 600px;
+  top: '50%';
+  left: '50%';
+  right: 'auto';
+  bottom: 'auto';
+  margin-right: '-50%';
+  transform: 'translate(-50%, -50%)';
+}
